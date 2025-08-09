@@ -1,0 +1,3 @@
+[submodule "tools/useful-lib"]
+	path = tools/useful-lib
+	url = https://github.com/allanwtham/useful-lib.git
